@@ -10,3 +10,7 @@ ul.main-menu>li {
     display: inline;
 }
 
+body {
+    background-color: lightcyan;
+    color: black;
+}    
