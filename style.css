@@ -3,5 +3,8 @@ h1 { color: Blue ; }
 ul.main-menu {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 0px 10px 0px 10px;
+}
+ul.main-menu>li {
+    display: inline;
 }
