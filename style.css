@@ -6,5 +6,7 @@ ul.main-menu {
     padding: 0;
 }
 ul.main-menu>li {
+    padding: 0px 10px 0px 10px;
     display: inline;
 }
+
