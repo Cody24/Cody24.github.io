@@ -4,12 +4,6 @@ ul.main-menu {
     list-style-type: none;
     margin: 0;
     padding: 0;
-}
-
-
-
-
-.sidebar {
     background-color:#1d90d3;
     margin: 10px;
     border-radius: 5px;
@@ -18,6 +12,11 @@ ul.main-menu {
     float: left;
     width: 250px;
 }
+
+
+
+
+
 
 
 body {
