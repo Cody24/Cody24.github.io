@@ -6,9 +6,8 @@ ul.main-menu {
     padding: 0;
 }
 
-ul.main-menu>li {
-    padding: 0px 10px 0px 10px;
-}
+
+
 
 .sidebar {
     background-color:#1d90d3;
@@ -17,7 +16,7 @@ ul.main-menu>li {
     padding: 20px;
     font size; 110%;
     float: left;
-
+}
 
 
 body {
