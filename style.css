@@ -11,6 +11,14 @@ ul.main-menu>li {
     display: inline;
 }
 
+.sidebar {
+    background-color:#1d90d3;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    font size; 110%
+
+
 
 body {
     background-color: #1d90d3;
