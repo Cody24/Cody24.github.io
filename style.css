@@ -29,4 +29,9 @@ body {
     font-family: "Helvetica";
     margin-left:10%;
     margin-right:10%;
+    height:100%;
 }    
+
+html {
+    height:100%;
+}
