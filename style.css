@@ -14,7 +14,8 @@ ul.main-menu {
     float: left;
     width: 160px;
     border-style: solid;
-    Height: 100%
+    Height: 100%;
+    Padding-bottom: 100%;
     
 }
 
