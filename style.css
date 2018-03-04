@@ -9,13 +9,14 @@ ul.main-menu {
     background-color:#ECDB02;
     margin: 10px;
     border-radius: 5px;
-    padding-left: 0px;
+    padding: 20px;
     font size; 110%;
     float: left;
     width: 160px;
     border-right: solid;
     Height: 100%;
     Padding-bottom: 100%;
+    Padding-left: 0px;
 
 }
 
