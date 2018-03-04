@@ -17,7 +17,7 @@ ul.main-menu {
     Height: 100%;
     Padding-bottom: 100%;
     position: fixed;
-    padding-left: -10%;
+    padding-right: -10%;
 }
 
 
@@ -32,7 +32,7 @@ body {
     font-family: "Helvetica";
     margin-left:10%;
     margin-right:10%;
-    padding-right:10%;
+    padding-left:10%;
 }    
 
 
