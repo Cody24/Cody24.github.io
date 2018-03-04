@@ -16,7 +16,7 @@ ul.main-menu {
     border-right: solid;
     Height: 100%;
     Padding-bottom: 100%;
-    Padding-left: 0px;
+    
 
 }
 
@@ -28,6 +28,7 @@ body {
     font-family: "Helvetica";
     margin-left:10%;
     margin-right:10%;
+    Padding-left: 0px;
 } 
 
 table, th, td {
