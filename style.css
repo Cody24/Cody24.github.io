@@ -16,6 +16,7 @@ ul.main-menu {
     border-right: solid;
     Height: 100%;
     Padding-bottom: 100%;
+    position: fixed;
     
 }
 
