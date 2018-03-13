@@ -41,6 +41,7 @@ th,td {
 }
 
 div.scr {
+    text-align: center;
     width: 50%;
     margin: 0 auto;
     position: absolute;
