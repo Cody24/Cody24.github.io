@@ -40,3 +40,7 @@ th,td {
     padding: 1%;
 }
 
+img.center {
+    display: block;
+    margin: 0 auto;
+}
