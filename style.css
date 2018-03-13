@@ -40,9 +40,6 @@ th,td {
     padding: 1%;
 }
 
-div.scr {
-    text-align: center;
-    width: 50%;
+scr {
     margin: 0 auto;
-    position: absolute;
 }
