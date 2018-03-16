@@ -21,8 +21,9 @@ ul.main-menu {
 
 body {
     background-color: #08A6DC;
-    color: Black;
+    color: White;
     font-family: "Helvetica";
+    font-size: 125%
     margin-left:0%;
     margin-right:10%;
 } 
