@@ -23,8 +23,10 @@ body {
     background-color: #08A6DC;
     color: Black;
     font-family: "Helvetica";
-    font-size: 200%
     margin-left:0%;
     margin-right:10%;
 } 
 
+html {
+    font-size: 200%;
+}
