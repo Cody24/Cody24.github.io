@@ -40,6 +40,7 @@ main {
     border-radius: 50%;
     animation: bounce 3s ease-out 1s infinite;
     padding-right: 30%;
+    right: 40%
 }
 
 @keyframes bounce {
