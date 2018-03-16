@@ -33,15 +33,15 @@ main {
 }
 
 .keyframe {
-    z-index: -1
+    z-index: -1;
     width: 2.5%;
     height: 5%;
     background-color: white;
     position: absolute;
     border-radius: 50%;
-    animation: bounce 3s ease-out 1s infinite;
+    animation: bounce 1s ease-out 1s 1;
     padding-right: 30%;
-    right: 30%
+    right: 30%;
 }
 
 @keyframes bounce {
