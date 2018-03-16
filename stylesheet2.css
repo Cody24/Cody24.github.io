@@ -1,5 +1,5 @@
 h1 { color: White ;
-    border-bottom: 2px solid White;
+    border-bottom: .5% solid White;
     text-align: center;
 
 }
@@ -7,12 +7,12 @@ h1 { color: White ;
 ul.main-menu {
     list-style-type: none;
     background-color:#08A6DC;
-    margin: 5%;
-    border-radius: 3%;
-    padding: 10%;
+    margin: 2%;
+    border-radius: .5%;
+    padding: 1%;
     font size; 110%;
     float: left;
-    width: 15%;
+    width: 10%;
     border-right: solid;
     Height: 100%;
     Padding-bottom: 100%;
