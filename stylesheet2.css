@@ -35,7 +35,7 @@ main {
 .keyframe {
     width: 2.5%;
     height: 2%;
-    background-color: black;
+    background-color: white;
     position: absolute;
     border-radius: 50%;
     animation: bounce 3s ease-out 1s infinite;
@@ -48,7 +48,7 @@ main {
         top: 0%
     }
     50% {
-        top: 30%
+        top: 35%
     }
     100% {
         top: 0%
