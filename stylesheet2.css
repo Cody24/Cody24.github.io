@@ -39,6 +39,7 @@ main {
     position: absolute;
     border-radius: 50%;
     animation: bounce 3s ease-out 1s infinite;
+    padding-right: 30%;
 }
 
 @keyframes bounce {
