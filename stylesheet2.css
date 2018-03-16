@@ -39,7 +39,7 @@ main {
     background-color: white;
     position: absolute;
     border-radius: 50%;
-    animation: bounce 5s ease-out 1s 1;
+    animation: bounce 5s ease-in 1s 1;
     padding-right: 30%;
     right: 30%;
     top: 25%;
