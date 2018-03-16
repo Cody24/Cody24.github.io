@@ -1,0 +1,29 @@
+h1 { color: White ;
+    border-bottom: 2px solid White;
+    text-align: center;
+
+}
+
+ul.main-menu {
+    list-style-type: none;
+    background-color:#08A6DC;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    font size; 110%;
+    float: left;
+    width: 160px;
+    border-right: solid;
+    Height: 100%;
+    Padding-bottom: 100%;
+    
+}
+
+body {
+    background-color: #08A6DC;
+    color: Black;
+    font-family: "Helvetica";
+    margin-left:0%;
+    margin-right:10%;
+} 
+
