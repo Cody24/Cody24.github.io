@@ -42,7 +42,7 @@ main {
     animation: bounce 5s ease-out .5s 1;
     padding-right: 30%;
     right: 30%;
-    top: 25%;
+    top: 20%;
 }
 
 @keyframes bounce {
@@ -50,13 +50,13 @@ main {
         top: 0%
     }
     50% {
-        top: 25%
+        top: 20%
     }
     75% {
-        top: 12.5%
+        top: 10%
     }
     100% {
-        top: 25%
+        top: 20%
     }
 
     
