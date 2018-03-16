@@ -35,13 +35,14 @@ main {
 .keyframe {
     z-index: -1;
     width: 2.5%;
-    height: 5%;
+    height: 10%;
     background-color: white;
     position: absolute;
     border-radius: 50%;
-    animation: bounce 1s ease-out 1s 1;
+    animation: bounce 5s ease-out 1s 1;
     padding-right: 30%;
     right: 30%;
+    top: 35%;
 }
 
 @keyframes bounce {
