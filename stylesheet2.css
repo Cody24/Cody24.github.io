@@ -24,7 +24,7 @@ body {
     color: Black;
     font-family: "Helvetica";
     margin-left:0%;
-    margin-right:10%;
+    margin-right: 0%;
 } 
 
 main {
@@ -37,13 +37,12 @@ main {
 
 .keyframe {
     z-index: -1;
-    width: 2.5%;
+    width: 30%;
     height: 30%;
     background-color: white;
     position: absolute;
     border-radius: 50%;
     animation: bounce 5s ease-out .5s 1;
-    padding-right: 30%;
     right: 30%;
     top: 20%;
 }
