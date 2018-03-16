@@ -35,7 +35,7 @@ main {
 .keyframe {
     z-index: -1;
     width: 2.5%;
-    height: 20%;
+    height: 30%;
     background-color: white;
     position: absolute;
     border-radius: 50%;
@@ -50,13 +50,13 @@ main {
         top: 0%
     }
     50% {
-        top: 20%
+        top: 15%
     }
     75% {
-        top: 10%
+        top: 7.5%
     }
     100% {
-        top: 20%
+        top: 15%
     }
 
     
