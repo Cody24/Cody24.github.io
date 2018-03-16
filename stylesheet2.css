@@ -39,7 +39,7 @@ main {
     background-color: white;
     position: absolute;
     border-radius: 50%;
-    animation: bounce 3s ease-out .5s 1;
+    animation: bounce 5s ease-out .5s 1;
     padding-right: 30%;
     right: 30%;
     top: 25%;
@@ -54,12 +54,6 @@ main {
     }
     75% {
         top: 12.5%
-    }
-    87.5% {
-        top: 25%
-    }
-    93.75% {
-        top: 6.25%
     }
     100% {
         top: 25%
