@@ -27,6 +27,6 @@ body {
     margin-right:10%;
 } 
 
-html {
+html.body {
     font-size: 200%;
 }
