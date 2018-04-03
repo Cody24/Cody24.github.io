@@ -47,25 +47,25 @@ img {
 
 .div1 {
     position: absolute;
-    down: 10%;
+    down: 80%;
     left: 15%;
 }
 
 .div2 {
     position: absolute;
-    down: 10%;
+    down: 80%;
     left: 45%;
 }
 
 .div3 {
     position: absolute;
-    down: 10%;
+    down: 80%;
     left: 60%;
 }
 
 .div4 {
     position: absolute;
     margin-right: 10%;
-    margin-left: 10%;
-    down: 70%;
+    margin-left: 20%;
+    down: 10%;
 }
