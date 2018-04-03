@@ -64,8 +64,6 @@ img {
 }
 
 .div4 {
-    position: absolute;
-    margin-right: 10%;
-    margin-left: 20%;
-    down: 10%;
+    postion: relative
+    down: 40%;
 }
