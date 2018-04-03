@@ -45,7 +45,18 @@ img {
     margin: 0 auto;
 }
 
-Photoshop {
-    display: block;
-    margin: 2%
+.div1 {
+    float: left;
+    margin: 1%
 }
+
+.div2 {
+    float: left;
+    margin: 1%
+}
+
+.div3 {
+    float: left;
+    margin: 1%
+}
+
