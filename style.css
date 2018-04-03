@@ -48,18 +48,18 @@ img {
 .div1 {
     position: absolute;
     down: 10%;
-    right: 15%;
+    left: 15%;
 }
 
 .div2 {
     position: absolute;
     down: 10%;
-    right: 55%;
+    left: 55%;
 }
 
 .div3 {
     position: absolute;
     down: 10%;
-    right: 70%;
+    left: 70%;
 }
 
