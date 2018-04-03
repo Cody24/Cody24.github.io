@@ -46,17 +46,20 @@ img {
 }
 
 .div1 {
-    float: left;
-    margin: 1%
+    position: absolute;
+    down: 10%;
+    right: 15%;
 }
 
 .div2 {
-    float: left;
-    margin: 1%
+    position: absolute;
+    down: 10%;
+    right: 55%;
 }
 
 .div3 {
-    float: right;
-    margin: 1%
+    position: absolute;
+    down: 10%;
+    right: 70%;
 }
 
