@@ -65,7 +65,7 @@ img {
 
 .div4 {
     position: absolute;
-    right:10%;
-    left: 10%;
+    margin-right: 10%;
+    margin-left: 10%;
     down: 70%;
 }
