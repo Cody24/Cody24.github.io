@@ -47,19 +47,19 @@ img {
 
 .div1 {
     position: absolute;
-    down: 80%;
+    down: 10%;
     left: 15%;
 }
 
 .div2 {
     position: absolute;
-    padding-bottom: 80%;
+    down: 10%;
     left: 45%;
 }
 
 .div3 {
     position: absolute;
-    down: 80%;
+    down: 10%;
     left: 60%;
 }
 
