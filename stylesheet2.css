@@ -32,10 +32,10 @@ main {
     text-align: center;
     position: relative;
     top: 30%;
+    right: 7.5%;
 }
 
 .keyframe {
-    z-index: -1;
     width: 30%;
     height: 30%;
     background-color: white;
