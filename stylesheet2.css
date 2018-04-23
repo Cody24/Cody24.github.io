@@ -25,12 +25,10 @@ body {
     font-family: "Helvetica";
     margin-left:0%;
     margin-right: 0%;
-} 
-
-main {
     font-size: 500%;
     text-align: center;
-}
+} 
+
 
 .keyframe {
     width: 30%;
