@@ -43,8 +43,6 @@ main {
     position: relative;
     border-radius: 50%;
     animation: bounce 5s ease-out .5s 1;
-    right: 30%;
-    top: 20%;
 }
 
 @keyframes bounce {
