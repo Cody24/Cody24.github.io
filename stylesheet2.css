@@ -39,8 +39,9 @@ main {
     background-color: white;
     border-radius: 50%;
     animation: bounce 5s ease-out .5s 1;
-    position: fixed;
-    left: 42.5%;
+    position: relative;
+    right: 42.5%;
+    bottom: 20%;
 }
 
 @keyframes bounce {
