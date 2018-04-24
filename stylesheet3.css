@@ -26,15 +26,21 @@ body {
 } 
 
 .div1 {
-    display: inline;
+    position: absolute;
+    down: 50%;
+    right: 20%;
     
 }
 
 .div2 {
-
+    position: absolute;
+    down: 50%;
+    right: 60%;
 }
 
 .div3 {
-
+    position: absolute;
+    down: 75%;
+    right: 20%;
 }
 
