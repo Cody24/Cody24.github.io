@@ -26,10 +26,7 @@ body {
 } 
 
 .div1 {
-    position: absolute;
-    down: 50%;
-    right: 20%;
-    
+    display: inline
 }
 
 .div2 {
