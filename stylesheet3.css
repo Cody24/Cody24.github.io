@@ -30,18 +30,14 @@ img {
     margin: 0 auto;
 
 .div1 {
-    position: absolute;
-    left: 20%;
+   float: left
 }
 
 .div2 {
-    position: absolute;
-    left: 55%
+    float: left
 }
 
 .div3 {
-    position: absolute;
-    left: 20%;
-    down: 40%;
+    
 }
 
