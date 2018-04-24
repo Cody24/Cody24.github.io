@@ -27,9 +27,11 @@ body {
     margin-right: 0%;
 } 
 
-main {
+.spotlight {
     font-size: 500%;
+    position: absolute;
     text-align: center;
+    top: 30%;
 }
 
 .keyframe {
