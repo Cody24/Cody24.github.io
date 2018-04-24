@@ -30,8 +30,9 @@ body {
 .spotlight {
     font-size: 500%;
     position: absolute;
-    right: 42.5%;
     top: 30%;
+    width: 100%;
+    text-align: center;
 }
 
 .keyframe {
@@ -42,8 +43,6 @@ body {
     border-radius: 50%;
     animation: bounce 5s ease-out .5s 1;
     position: relative;
-    right: 42.5%;
-    bottom: 20%;
 }
 
 @keyframes bounce {
