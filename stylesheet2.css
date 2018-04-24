@@ -40,7 +40,7 @@ main {
     border-radius: 50%;
     animation: bounce 5s ease-out .5s 1;
     position: fixed;
-    bottom: 30%;
+    bottom: 20%;
     left: 50%;
 }
 
