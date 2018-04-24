@@ -30,7 +30,7 @@ body {
 .spotlight {
     font-size: 500%;
     position: absolute;
-    text-align: center;
+    right: 42.5%
     top: 30%;
 }
 
