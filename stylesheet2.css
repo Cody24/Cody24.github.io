@@ -45,7 +45,7 @@ body {
     border-radius: 50%;
     animation: bounce 5s ease-out .5s 1;
     right: 30%;
-    top: 20%;
+    top: 15%;
 }
 
 @keyframes bounce {
@@ -53,13 +53,13 @@ body {
         top: 0%
     }
     50% {
-        top: 20%
+        top: 15%
     }
     75% {
-        top: 10%
+        top: 7.5%
     }
     100% {
-        top: 20%
+        top: 15%
     }
 
     
