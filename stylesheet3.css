@@ -26,14 +26,15 @@ body {
 } 
 
 .div1 {
-    float: left
+    display: inline;
+    
 }
 
 .div2 {
-    float: left
+
 }
 
 .div3 {
-    float: left
+
 }
 
