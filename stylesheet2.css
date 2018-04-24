@@ -42,7 +42,6 @@ body {
     background-color: white;
     border-radius: 50%;
     animation: bounce 5s ease-out .5s 1;
-    position: relative;
 }
 
 @keyframes bounce {
