@@ -6,7 +6,7 @@ h1 { color: White ;
 
 ul.main-menu {
     list-style-type: none;
-    background-color:#08A6DC;
+    background-color:#ECA800;
     margin: 10px;
     border-radius: 5px;
     padding: 20px;
@@ -23,7 +23,7 @@ ul.main-menu {
 
 
 body {
-    background-color: #08A6DC;
+    background-color: #ECA800;
     color: Black;
     font-family: "Helvetica";
     margin-left:0%;
